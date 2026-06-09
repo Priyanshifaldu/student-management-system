@@ -1,4 +1,4 @@
-# Student Data Entry Management System
+# Student Management System
 
 A console-based Java application designed to manage student records efficiently. The system allows users to add, search, update, and delete student information while demonstrating core Object-Oriented Programming (OOP) concepts and custom exception handling.
 
